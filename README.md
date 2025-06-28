@@ -1,8 +1,8 @@
-# ✉️ Email Signature for Bryan Chung
+# ✉️ Email Signature for Brittany LaDue
 
 🔗 **[Live Preview](https://keshurgojiya.github.io/Email-Signature-for-Brittany-LaDue/)**
 
-This project contains a responsive and professional HTML email signature for Bryan Chung, designed to display perfectly across major email clients.
+This project contains a responsive and professional HTML email signature for Brittany LaDue, designed to display perfectly across major email clients.
 
 ---
 
